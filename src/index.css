@@ -34,3 +34,77 @@ body {
     font-size: 12px;
     line-height: 15px;
 }
+
+.main {
+    padding: 37px;
+}
+
+.inputs-container {
+    display: flex;
+    gap: 17px;
+    margin-bottom: 15px;
+    justify-content: center;
+}
+
+.input {
+    height: 35px;
+    width: 50%;
+    font-family: "Karla";
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #0d0d0d;
+    text-indent: 11px;
+    border: 1px solid #d5d4d8;
+    border-radius: 5px;
+}
+
+.button {
+    font-family: "Karla", sans-serif;
+    width: 100%;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    height: 40px;
+    text-align: center;
+    letter-spacing: -0.1em;
+    background: linear-gradient(90.41deg, #711f8d 1.14%, #a818da 100%);
+    border-radius: 5px;
+    color: #ffffff;
+    border: none;
+    margin-bottom: 37px;
+}
+
+.meme-container {
+    position: relative;
+}
+
+.img {
+    width: 100%;
+    max-width: min-content;
+    display: block;
+    margin: 0 auto;
+}
+
+.meme-text {
+    position: absolute;
+    text-align: center;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    font-family: "Impact";
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #ffffff;
+    max-width: 100%;
+    word-wrap: break-word;
+}
+
+.meme-text-top {
+    top: 16px;
+}
+
+.meme-text-bottom {
+    bottom: 16px;
+}

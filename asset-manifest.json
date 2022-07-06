@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meme-generator/static/css/main.f52a3c0b.css",
+    "main.js": "/meme-generator/static/js/main.440f97ad.js",
+    "static/media/karla-all-500-normal.woff": "/meme-generator/static/media/karla-all-500-normal.667cee41d4a0f4a2709e.woff",
+    "static/media/karla-all-700-normal.woff": "/meme-generator/static/media/karla-all-700-normal.0181c1abfc125e913789.woff",
+    "static/media/karla-all-400-normal.woff": "/meme-generator/static/media/karla-all-400-normal.4f7983690c38cb4f5f05.woff",
+    "static/media/karla-latin-500-normal.woff2": "/meme-generator/static/media/karla-latin-500-normal.195f27f41a7010409c0b.woff2",
+    "static/media/karla-latin-700-normal.woff2": "/meme-generator/static/media/karla-latin-700-normal.e01d822128c7301005dd.woff2",
+    "static/media/karla-latin-400-normal.woff2": "/meme-generator/static/media/karla-latin-400-normal.3b748d472b2ea17ac01b.woff2",
+    "static/media/karla-latin-ext-400-normal.woff2": "/meme-generator/static/media/karla-latin-ext-400-normal.cfc9908b3c4565f054b8.woff2",
+    "static/media/karla-latin-ext-700-normal.woff2": "/meme-generator/static/media/karla-latin-ext-700-normal.2a753e2ffb486f479ea0.woff2",
+    "static/media/karla-latin-ext-500-normal.woff2": "/meme-generator/static/media/karla-latin-ext-500-normal.1adcd1fa3531d9a1b8c6.woff2",
+    "index.html": "/meme-generator/index.html",
+    "main.f52a3c0b.css.map": "/meme-generator/static/css/main.f52a3c0b.css.map",
+    "main.440f97ad.js.map": "/meme-generator/static/js/main.440f97ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f52a3c0b.css",
+    "static/js/main.440f97ad.js"
+  ]
+}
